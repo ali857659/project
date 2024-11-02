@@ -1,3 +1,5 @@
 my name is syed muhammad ali shah
 we are learning git
+<<<<<<< HEAD
 merging same line
+we are creating conflict
