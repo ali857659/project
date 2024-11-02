@@ -4,3 +4,4 @@ we are learning git
 merging same line
 we are creating conflict
 we are updating with github
+my name is syed muhammad ali shah
