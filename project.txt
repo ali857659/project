@@ -3,3 +3,4 @@ we are learning git
 <<<<<<< HEAD
 merging same line
 we are creating conflict
+we are updating with github
